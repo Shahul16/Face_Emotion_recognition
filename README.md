@@ -14,7 +14,7 @@ A repository of notebooks  with cnn for identifying different emotions in differ
 👨🏻‍💻 Datasets:  
 * FER2018 Dataset from kaggle. You can download from [Click here For Datasets](https://www.kaggle.com/ashishpatel26/fer2018/download)
 
-Step3:
+## Step3:
 🏃🏻‍♀️ Run it 
 
 📜 LICENSE
